@@ -1,0 +1,8 @@
+{
+    "nats_ip": "10.90.5.20",
+    "dump_log": false,
+    "full_output": false,
+    "min_weight_g": 50.0,
+    "shekel_email": "admin@wuerth.shekel",
+    "shekel_password": "Lam5Oh-3ebruz-b8nJoJ"
+}
